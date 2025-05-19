@@ -39,6 +39,4 @@ This project utilizes a combination of industry-standard tools and libraries fro
 
 5. **Evaluation**: ROUGE scores were computed on the test set to evaluate the performance. The model achieved meaningful ROUGE scores, indicating that it learned to produce coherent and relevant summaries.
 
-## Conclusion
-
-This project successfully demonstrates how powerful transformer-based architectures like BART can be used for abstractive text summarization. By combining efficient training techniques with Hugging Face’s rich ecosystem and deploying it using Streamlit, the project bridges the gap between advanced machine learning and user-centric applications. The final product is a responsive and easy-to-use web app that can summarize any input text, making it suitable for educational tools, research assistants, or even content summarization in real-world business applications.
+## In Conclusion, this project successfully demonstrates how powerful transformer-based architectures like BART can be used for abstractive text summarization. By combining efficient training techniques with Hugging Face’s rich ecosystem and deploying it using Streamlit, the project bridges the gap between advanced machine learning and user-centric applications. The final product is a responsive and easy-to-use web app that can summarize any input text, making it suitable for educational tools, research assistants, or even content summarization in real-world business applications.
